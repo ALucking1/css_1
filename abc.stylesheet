@@ -1,6 +1,5 @@
 body {
   background-size: 900px;
-  
 }
 
 * {
@@ -36,4 +35,11 @@ h3:hover {
 
 a {
   cursor: url("/Users/annalucking/Downloads/imageedit_26_5784824188.png"), auto;
+}
+
+#light {
+  display: inline-block;
+  float: left;
+  margin: 0px 0px -100px 0px;
+  padding: 20px;
 }
